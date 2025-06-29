@@ -31,12 +31,12 @@ La imagen muestra la pantalla "Registrar Nuevo Juego" de la aplicación. En ella
 ### 6.4️⃣ **Almacenamiento de Datos de Juegos en Firebase Realtime Database**
 ![image](https://github.com/user-attachments/assets/157207da-2cde-4890-bda3-afda5994a824)
 
-esta imagen muestra cómo la información de un juego que un usuario registra en la aplicación (como "minecraf" del género "accion" y rating 0) se almacena y estructura en tiempo real en la base de datos de Firebase.
+Esta imagen muestra cómo la información de un juego que un usuario registra en la aplicación (como "minecraf" del género "accion" y rating 0) se almacena y estructura en tiempo real en la base de datos de Firebase.
 
 ### 7.4️⃣ **vista de VER JUEGOS **
 ![image](https://github.com/user-attachments/assets/e5bd0a17-b263-419b-bbd0-535779a6af02)
 
-En este apartado le daremos click a ver  juevo el cual nos redirigira a otra pestaña.
+En este apartado le daremos click a "ver juego" el cual nos redirigira a otra pestaña.
 
 ### 8.4️⃣ **LISTA DE LOS JUEGOS GUARDADOS**
 ![image](https://github.com/user-attachments/assets/c488e8ff-40be-4776-b457-80d88425f393)
